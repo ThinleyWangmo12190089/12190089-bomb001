@@ -63,7 +63,7 @@ which to blow yourself up. Have a nice day!
 Phase 1 defused. How about the next one?
 0 1 1 2 3 5
 That's number 2.  Keep going!
-hi
+hi          //Testing the input
 
 Breakpoint 1, 0x0000000000400f15 in phase_3 ()
 (gdb) disas 
